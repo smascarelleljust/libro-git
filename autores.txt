@@ -1,7 +1,4 @@
 Samuel Mascarell Martinez (s.mascarellmartine@edu.gva.es)
-<<<<<<< HEAD
 Samuel Mascarell2 (s.mascarellmartine2@edu.gva.es) "prueba en clase"
 Josue Fernandez 		xarkuel@gmail.com
-=======
-Josue Fernandez Alventosa (xarkuel@gmial.com)
->>>>>>> b8d8bfff4d6d01eab6d83cd9902f79bf47a9fdbe
+
